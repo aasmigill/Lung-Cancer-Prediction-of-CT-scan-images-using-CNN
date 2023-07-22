@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Cancer Care</title>
+
+    <link rel="stylesheet" href= "{{ url_for('static', filename = 'css/styles.css') }}" >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Poppins:wght@300&family=Ubuntu&display=swap" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <h3>Cancer Care</h3>
+
+      <h1>Take the Test today!</h1>
+        <div class="file_sub">
+          <form action="/predict">
+            <label for="images" class="drop-container">
+              <span class="drop-title">Drop files here</span>
+              or
+              <input type="file" id="images" accept="image/*" required>
+            </label>
+          <button class="button" type="submit"> Submit </button>
+          </form>
+        </div>
+  </body>
+</html>
