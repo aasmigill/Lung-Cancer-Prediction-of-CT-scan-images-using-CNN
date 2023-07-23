@@ -9,12 +9,18 @@ git clone https://github.com/aasmigill/Lung-Cancer-Prediction-of-CT-scan-images-
 ## Dataset used 
 [Kaggle Dataset](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images)
 
+## Project Demo
+
+[Lung-Cancer-Prediction-of-CT-scan-images-using-CNN demo video on YouTube](https://youtu.be/LBPjHUxtrsc)
+
+
 ## Model flow 
 ![CNN model flow](https://github.com/aasmigill/Lung-Cancer-Prediction-of-CT-scan-images-using-CNN/assets/90896920/3cca8081-ae2a-48f0-9285-989f7f3f8da6)
 
 ## Screenshot
 ![image](https://github.com/aasmigill/Lung-Cancer-Prediction-of-CT-scan-images-using-CNN/assets/90896920/7827b69d-e9a3-4775-93c0-d840f7ff594a)
 ![image](https://github.com/aasmigill/Lung-Cancer-Prediction-of-CT-scan-images-using-CNN/assets/90896920/18fd8b05-98f8-418c-9c96-afe9edd6fea9)
+
 
 ## Contributing
 
